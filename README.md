@@ -13,4 +13,4 @@ A simple tribute website for my favorite artist, A.R. Rahman, created using only
 View it live here: [GitHub Pages Link]()
 
 ## How to Use
-1. Clone the repository:
+1. Clone the repository:https://github.com/YuvanGanesh/ar-rahman-tribute-website
